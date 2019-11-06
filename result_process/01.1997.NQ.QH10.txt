@@ -1,0 +1,18 @@
+quốc hội
+B-PER
+Độc lập - Tự do - Hạnh phúc
+Số: CODE
+B-LOC, DATE
+nghị quyết
+xác nhận tư cách đại biểu của các đại biểu Quốc hội khoá X
+Căn cứ vào Điều NUMBER của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam DATE;
+Căn cứ vào Điều NUMBER của Luật Tổ chức Quốc hội DATE;
+Căn cứ vào Điều NUMBER Luật bầu cử đại biểu Quốc hội số CODE
+Sau khi nghe báo cáo của Hội đồng bầu cử về kết quả bầu cử đại biểu Quốc hội khóa X DATE;
+Sau khi nghe Tờ trình của Uỷ ban thẩm tra tư cách đại biểu Quốc hội;
+quyết nghị
+Xác nhận tư cách đại biểu Quốc hội của NUMBER vị đã được Hội đồng bầu cử công bố trúng cử trong cuộc bầu cử DATE, theo Biên bản tổng kết cuộc bầu cử DATE của hội đồng bầu cử
+Nghị quyết này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá X, kỳ họp thứ nhất, thông qua tại phiên họp DATE
+chủ tịch quốc hội
+(Đã ký)
+B-PER
